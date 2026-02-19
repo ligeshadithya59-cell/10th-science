@@ -13,7 +13,7 @@ At the end of this lesson, students will be able to
 - Know the fundamental laws of gases
 - Distinguish between real gas and ideal gas
 - Derive the ideal gas equation
-- Solve the numerical problem
+- Solve the numerical problems
 
 ---
 
